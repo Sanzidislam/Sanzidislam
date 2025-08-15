@@ -22,9 +22,9 @@ I love solving problems, building software, and learning by doing — from my fi
 
 ## 🏆 Competitive Programming
 - Solved **500+ problems** across:
-  - [Codeforces](https://codeforces.com/)
-  - [LeetCode](https://leetcode.com/)
-  - [CodeChef](https://www.codechef.com/)
+  - [Codeforces](https://codeforces.com/profile/Sanzid624)
+  - [LeetCode](https://leetcode.com/u/sanzidislam/)
+  - [CodeChef](https://www.codechef.com/users/sanzidislam)
 - Strengths: problem solving, algorithms, and optimization
 
 ---
